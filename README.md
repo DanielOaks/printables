@@ -1,2 +1,8 @@
 # printables
-My 3d printable files and projects
+
+These are my 3d-printable files and projects!
+
+
+## Licensing
+
+Check each project to see what license it uses.
