@@ -5,4 +5,4 @@ These are my 3d-printable files and projects!
 
 ## Licensing
 
-Check each project to see what license it uses.
+Check each folder to see what license it uses.
